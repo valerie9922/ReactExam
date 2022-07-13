@@ -1,0 +1,21 @@
+
+.navBar{
+    display: flex;
+    flex-direction: row;
+    border:2px solid black ;
+    background-color: gainsboro;
+}
+.title{
+
+}
+.search{
+    padding: 100px;
+}
+.icon{
+    float: left;
+}
+.navTitle{
+    float: right;
+    margin-left:100px;
+    margin-top: 0px;
+}
